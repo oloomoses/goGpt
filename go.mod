@@ -3,6 +3,6 @@ module go-gpt
 go 1.23.1
 
 require (
-	github.com/joho/godotenv v1.5.1 // indirect
-	github.com/sashabaranov/go-openai v1.32.0 // indirect
+	github.com/joho/godotenv v1.5.1
+	github.com/sashabaranov/go-openai v1.32.0
 )
